@@ -12,9 +12,8 @@ Also Do Note that the styles are given by the mentor of iNeuron and was given to
   
 ## 📂 File Structure
 This is made in vanialla JS so the file structure is not too complex basically have 3 files which are
-- index.html - Contains all html elements
+- index.html - Contains all html elements & Core logic for button click event
 - style.css - styles the html element
-- app.js - Core logic for button click event
 
 ## 🚩 Demo In Laptop Screen
 
